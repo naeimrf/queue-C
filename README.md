@@ -1,5 +1,6 @@
 ## Practice queue structure in C programming
-A general queue structure
+#### A general queue structure
+Link to provided assignment at Upssala university:  
 http://www.it.uu.se/edu/course/homepage/progbrygg/ht18/c/assignments/as4/index.html
 
 Requirements:  
